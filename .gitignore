@@ -1,0 +1,9 @@
+.env
+*.env
+__pycache__/
+# large files / FortyGuard's data: keep local only
+heatmap_layer.geojson
+03-16-2022*.geojson
+result.json
+result_la.json
+result_lb.json
