@@ -7,3 +7,6 @@ heatmap_layer.geojson
 result.json
 result_la.json
 result_lb.json
+mcp_dump.txt
+result_routing.json
+result_streetview*.json
