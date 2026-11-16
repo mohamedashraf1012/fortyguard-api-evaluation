@@ -6,6 +6,8 @@ data source: run the official example, compare its output with the dashboard, va
 internal consistency, and probe edge cases. I do not have a climate background, so I focused on data
 quality, schema and documentation rather than model accuracy.
 
+**Full findings: [FINDINGS.md](FINDINGS.md)**
+
 All numbers come from a Premium test key. Most tests use one area: Long Beach, California, on 2022-03-16
 (a heatmap I created in the dashboard). I also tested the dashboard's California demo and a few
 single-point calls.
